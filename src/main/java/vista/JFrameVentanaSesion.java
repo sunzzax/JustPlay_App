@@ -71,6 +71,7 @@ public class JFrameVentanaSesion extends javax.swing.JFrame {
         setMaximumSize(new java.awt.Dimension(1250, 700));
         setMinimumSize(new java.awt.Dimension(1250, 700));
         setUndecorated(true);
+        setPreferredSize(new java.awt.Dimension(1250, 700));
         setResizable(false);
 
         jPanelFondo.setBackground(new java.awt.Color(30, 30, 30));
